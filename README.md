@@ -17,6 +17,8 @@
 [![RETROFIT](https://img.shields.io/badge/retrofit-67b586?logo=square&logoColor=white&style=for-the-badge)](https://github.com/ErickSorto)
 [![GRADLE](https://img.shields.io/badge/gradle-02303A?logo=Gradle&logoColor=white&style=for-the-badge)](https://github.com/ErickSorto)
 
+More: XML, Room, Kotlin coroutines, Kotlin Flow, LiveData and Observers, Views Lifecycle, Logging, Moshi, Glide, Charting with MPAndroidChart, REST
+
 
 Hi my name is Erick, in my free time I love developing android apps. Currently, I am working through a Udacity course about app development using Kotlin. I've been studying Java for 4 years now and I wanted to find a way to combine my love for creating and programming, so I got into app development. 
 Skills: Java, Kotlin, SQL, UI Design
