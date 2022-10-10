@@ -17,9 +17,21 @@
 [![RETROFIT](https://img.shields.io/badge/retrofit-67b586?logo=square&logoColor=white&style=for-the-badge)](https://github.com/ErickSorto)
 [![GRADLE](https://img.shields.io/badge/gradle-02303A?logo=Gradle&logoColor=white&style=for-the-badge)](https://github.com/ErickSorto)
 
-More: XML, Room, Kotlin coroutines, Kotlin Flow, LiveData and Observers, Views Lifecycle, Logging, Moshi, Glide, Charting with MPAndroidChart, REST
+**More:**
+XML, Room, Kotlin coroutines, Kotlin Flow, LiveData and Observers, Views Lifecycle, Glide, REST
+
+---
+
+### Portfolio Projects:
+
+<img align="right" height="220px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickSorto&layout=compact&theme=chartreuse-dark&title_color=ffffff&langs_count=3" />
+
+Latest:
+- [Collatz Conjecture App](https://github.com/ErickSorto/Collatz-Calculator): Calculates number of iterations a number has using the Collatz Conjecture. Displays different statistics in a chart, history, and recently used numbers. Contains different tools for filtering iterations. 
+- [News App](https://github.com/ErickSorto/Collatz-Calculator): Uses The Guardian news API which returns information in a JSON format. Uses AsyncTask that asynchronously Queries the news API. Implements customized RecyclerView to display News.
 
 
+### About me:
 Hi my name is Erick, in my free time I love developing android apps. Currently, I am working through a Udacity course about app development using Kotlin. I've been studying Java for 4 years now and I wanted to find a way to combine my love for creating and programming, so I got into app development. 
 Skills: Java, Kotlin, SQL, UI Design
 <!---
