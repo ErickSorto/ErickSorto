@@ -10,7 +10,6 @@
 [![MVVM](https://img.shields.io/badge/MVVM-ed9242?&style=for-the-badge)](https://github.com/ErickSorto)
 [![GIT](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/ErickSorto)
 [![SQLITE](https://img.shields.io/badge/SQLite-003B57?logo=SQLite&logoColor=white&style=for-the-badge)](https://github.com/ErickSorto)
-[![MATERIAL DESIGN](https://img.shields.io/badge/Material%20Design-757575?logo=Material-Design&logoColor=white&style=for-the-badge)](https://github.com/ErickSorto)
 [![JETPACK NAVIGATION](https://img.shields.io/badge/Jetpack%20Navigation-6b52bf?&style=for-the-badge)](https://github.com/ErickSorto)
 [![RETROFIT](https://img.shields.io/badge/retrofit-67b586?logo=square&logoColor=white&style=for-the-badge)](https://github.com/ErickSorto)
 [![GRADLE](https://img.shields.io/badge/gradle-02303A?logo=Gradle&logoColor=white&style=for-the-badge)](https://github.com/ErickSorto)
