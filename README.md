@@ -27,6 +27,24 @@ Latest:
 - [Collatz Conjecture App](https://github.com/ErickSorto/Collatz-Calculator): Calculates number of iterations a number has using the Collatz Conjecture. Displays different statistics in a chart, history, and recently used numbers. Contains different tools for filtering iterations. 
 - [News App](https://github.com/ErickSorto/Collatz-Calculator): Uses The Guardian news API which returns information in a JSON format. Uses AsyncTask that asynchronously Queries the news API. Implements customized RecyclerView to display News.
 
+---
+Collatz Conjecture App:
+
+<p align="left" style="display:flex">
+    <a href="https://github.com/ErickSorto/Collatz-Calculator">
+        <img width=150 src="https://user-images.githubusercontent.com/85327212/197114704-f2516b35-a725-47a4-acda-af08c0a32128.gif" />
+    </a>
+    <a href="https://github.com/ErickSorto/Collatz-Calculator">
+        <img width=150 src="https://user-images.githubusercontent.com/85327212/197114706-9b798f13-7bd5-410e-8a74-f8168aa6f985.gif" />
+    </a>
+    <a href="https://github.com/ErickSorto/Collatz-Calculator">
+        <img width=150 src="https://user-images.githubusercontent.com/85327212/197114681-bc5ada60-29b4-4336-966a-bda50c4f82a8.gif" />
+    </a>
+</p>
+
+
+
+
 
 ### About me:
 Hi my name is Erick, in my free time I love developing android apps. Currently, I am working through a Udacity course about app development using Kotlin. I've been studying Java for 4 years now and I wanted to find a way to combine my love for creating and programming, so I got into app development. 
@@ -35,3 +53,4 @@ Skills: Java, Kotlin, SQL, UI Design
 ErickSorto/ErickSorto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
