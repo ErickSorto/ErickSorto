@@ -24,8 +24,9 @@ XML, Room, Kotlin coroutines, Kotlin Flow, LiveData and Observers, Views Lifecyc
 <img align="right" height="220px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickSorto&layout=compact&theme=chartreuse-dark&title_color=ffffff&langs_count=3" />
 
 Latest:
+- [Dream Journal AI](https://github.com/ErickSorto/Collatz-Calculator): App allows users to save, edit, and delete dreams and gives them the ability to generate an AI response that interprets their dream. It also stores various details for a dream. 
 - [Collatz Conjecture App](https://github.com/ErickSorto/Collatz-Calculator): Calculates number of iterations a number has using the Collatz Conjecture. Displays statistics, history, and recently used numbers. Contains different tools for filtering iterations. 
-- [News App](https://github.com/ErickSorto/Collatz-Calculator): Uses The Guardian news API which returns information in a JSON format. Uses AsyncTask that asynchronously Queries the news API. Implements customized RecyclerView to display News.
+
 
 ---
 Collatz Conjecture App:
