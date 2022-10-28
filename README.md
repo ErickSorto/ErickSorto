@@ -21,7 +21,7 @@ XML, Room, Kotlin coroutines, Kotlin Flow, LiveData and Observers, Views Lifecyc
 
 ### Portfolio Projects:
 
-<img align="right" height="220px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickSorto&layout=compact&theme=chartreuse-dark&title_color=ffffff&langs_count=3" />
+<img align="right" height="210px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickSorto&layout=compact&theme=chartreuse-dark&title_color=ffffff&langs_count=3" />
 
 Latest:
 - [Dream Journal AI](https://github.com/ErickSorto/Dream-Journal-AI): App allows users to save, edit, and delete dreams and gives them the ability to generate an AI response that interprets their dream. It also stores various details for a dream. 
@@ -29,22 +29,46 @@ Latest:
 
 
 ---
-Collatz Conjecture App:
+<p align="Right">
+ 
+  </p>
 
-<p align="left" style="display:flex">
+
+
+
+
+<table align= "center">
+<tr>
+<th><a href="https://github.com/ErickSorto/Dream-Journal-AI">Dream Journal AI</th>
+<th><a href="https://github.com/ErickSorto/Collatz-Calculator"> Collatz Conjecture App</th>
+</tr>
+<tr>
+
+<td width="50%">
+
+<p align="Right" style="display:flex">
     <a href="https://github.com/ErickSorto/Collatz-Calculator">
         <img width=150 src="https://user-images.githubusercontent.com/85327212/197114704-f2516b35-a725-47a4-acda-af08c0a32128.gif" />
     </a>
     <a href="https://github.com/ErickSorto/Collatz-Calculator">
         <img width=150 src="https://user-images.githubusercontent.com/85327212/197114706-9b798f13-7bd5-410e-8a74-f8168aa6f985.gif" />
     </a>
+</p>
+
+</td>
+  
+  <td width="50%">
+
+<p align="Right" style="display:flex">
     <a href="https://github.com/ErickSorto/Collatz-Calculator">
-        <img width=150 src="https://user-images.githubusercontent.com/85327212/197114681-bc5ada60-29b4-4336-966a-bda50c4f82a8.gif" />
+        <img width=150 src="https://user-images.githubusercontent.com/85327212/197114704-f2516b35-a725-47a4-acda-af08c0a32128.gif" />
+    </a>
+    <a href="https://github.com/ErickSorto/Collatz-Calculator">
+        <img width=150 src="https://user-images.githubusercontent.com/85327212/197114706-9b798f13-7bd5-410e-8a74-f8168aa6f985.gif" />
     </a>
 </p>
 
-
-
+</td></tr> </table>
 
 
 ### About me:
