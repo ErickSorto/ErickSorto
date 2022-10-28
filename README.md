@@ -73,6 +73,7 @@ Latest:
 
 </td></tr> </table>
 
+---
 
 ### About me:
 Hi my name is Erick, in my free time I love developing android apps. Currently, I am working through a Udacity course about app development using Kotlin. I've been studying Java for 4 years now and I wanted to find a way to combine my love for creating and programming, so I got into app development. 
