@@ -59,7 +59,7 @@ Latest:
 
   <td width="50%">
 
-<p align="Right" style="display:flex">
+<p align="Center" style="display:flex">
     <a href="https://github.com/ErickSorto/Collatz-Calculator">
         <img width=125 src="https://user-images.githubusercontent.com/85327212/197114704-f2516b35-a725-47a4-acda-af08c0a32128.gif" />
     </a>
