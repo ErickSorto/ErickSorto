@@ -29,12 +29,6 @@ Latest:
 
 
 ---
-<p align="Right">
- 
-  </p>
-
-
-
 
 
 <table align= "center">
@@ -53,9 +47,13 @@ Latest:
     <a href="https://github.com/ErickSorto/Collatz-Calculator">
         <img width=150 src="https://user-images.githubusercontent.com/85327212/198683804-e7395df9-2933-4fc1-afd6-17d06218051e.gif" />
     </a>
+  <a href="https://github.com/ErickSorto/Collatz-Calculator">
+        <img width=150 src="https://user-images.githubusercontent.com/85327212/198685322-cc254a20-5566-4724-a426-36bdf00d8472.gif" />
+    </a>
 </p>
 
 </td>
+
 
 
 
@@ -66,6 +64,9 @@ Latest:
         <img width=150 src="https://user-images.githubusercontent.com/85327212/197114704-f2516b35-a725-47a4-acda-af08c0a32128.gif" />
     </a>
     <a href="https://github.com/ErickSorto/Collatz-Calculator">
+        <img width=150 src="https://user-images.githubusercontent.com/85327212/197114706-9b798f13-7bd5-410e-8a74-f8168aa6f985.gif" />
+    </a>
+  <a href="https://github.com/ErickSorto/Collatz-Calculator">
         <img width=150 src="https://user-images.githubusercontent.com/85327212/197114706-9b798f13-7bd5-410e-8a74-f8168aa6f985.gif" />
     </a>
 </p>
