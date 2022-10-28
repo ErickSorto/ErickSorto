@@ -46,17 +46,19 @@ Latest:
 
 <td width="50%">
 
-<p align="Right" style="display:flex">
+<p align="Center" style="display:flex">
     <a href="https://github.com/ErickSorto/Collatz-Calculator">
-        <img width=150 src="https://user-images.githubusercontent.com/85327212/197114704-f2516b35-a725-47a4-acda-af08c0a32128.gif" />
+        <img width=150 src="https://user-images.githubusercontent.com/85327212/198681623-f76b4882-f073-4be1-90d0-4d9487890f8a.gif" />
     </a>
     <a href="https://github.com/ErickSorto/Collatz-Calculator">
-        <img width=150 src="https://user-images.githubusercontent.com/85327212/197114706-9b798f13-7bd5-410e-8a74-f8168aa6f985.gif" />
+        <img width=150 src="https://user-images.githubusercontent.com/85327212/198683804-e7395df9-2933-4fc1-afd6-17d06218051e.gif" />
     </a>
 </p>
 
 </td>
-  
+
+
+
   <td width="50%">
 
 <p align="Right" style="display:flex">
@@ -76,6 +78,7 @@ Hi my name is Erick, in my free time I love developing android apps. Currently, 
 Skills: Java, Kotlin, SQL, UI Design
 <!---
 ErickSorto/ErickSorto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+You can click the Preview link to take a look at your changes.![dj_display_gif](https://user-images.githubusercontent.com/85327212/198681623-f76b4882-f073-4be1-90d0-4d9487890f8a.gif)
+
 --->
 
