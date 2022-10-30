@@ -42,13 +42,13 @@ Latest:
 
 <p align="Center" style="display:flex">
     <a href="https://github.com/ErickSorto/Dream-Journal-AI">
-        <img width=125 src="https://user-images.githubusercontent.com/85327212/198681623-f76b4882-f073-4be1-90d0-4d9487890f8a.gif" />
+        <img width=135 src="https://user-images.githubusercontent.com/85327212/198681623-f76b4882-f073-4be1-90d0-4d9487890f8a.gif" />
     </a>
     <a href="https://github.com/ErickSorto/Dream-Journal-AI">
-        <img width=125 src="https://user-images.githubusercontent.com/85327212/198683804-e7395df9-2933-4fc1-afd6-17d06218051e.gif" />
+        <img width=135 src="https://user-images.githubusercontent.com/85327212/198683804-e7395df9-2933-4fc1-afd6-17d06218051e.gif" />
     </a>
   <a href="https://github.com/ErickSorto/Dream-Journal-AI">
-        <img width=125 src="https://user-images.githubusercontent.com/85327212/198685322-cc254a20-5566-4724-a426-36bdf00d8472.gif" />
+        <img width=135 src="https://user-images.githubusercontent.com/85327212/198685322-cc254a20-5566-4724-a426-36bdf00d8472.gif" />
     </a>
 </p>
 
@@ -61,13 +61,13 @@ Latest:
 
 <p align="Center" style="display:flex">
     <a href="https://github.com/ErickSorto/Collatz-Calculator">
-        <img width=125 src="https://user-images.githubusercontent.com/85327212/198862142-df941bfa-e8ab-48c6-b402-c4ec19eca862.gif" />
+        <img width=135 src="https://user-images.githubusercontent.com/85327212/198862142-df941bfa-e8ab-48c6-b402-c4ec19eca862.gif" />
     </a>
     <a href="https://github.com/ErickSorto/Collatz-Calculator">
-        <img width=125 src="https://user-images.githubusercontent.com/85327212/198862141-b1b2ae72-9201-480b-a55c-118bff3a5f75.gif" />
+        <img width=135 src="https://user-images.githubusercontent.com/85327212/198862141-b1b2ae72-9201-480b-a55c-118bff3a5f75.gif" />
     </a>
   <a href="https://github.com/ErickSorto/Collatz-Calculator">
-        <img width=125 src="https://user-images.githubusercontent.com/85327212/198862140-efd6e762-f76b-436b-9c96-ef2bf8aebc36.gif" />
+        <img width=135 src="https://user-images.githubusercontent.com/85327212/198862140-efd6e762-f76b-436b-9c96-ef2bf8aebc36.gif" />
     </a>
  
 </p>
