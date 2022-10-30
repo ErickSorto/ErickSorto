@@ -61,10 +61,13 @@ Latest:
 
 <p align="Center" style="display:flex">
     <a href="https://github.com/ErickSorto/Collatz-Calculator">
-        <img width=125 src="https://user-images.githubusercontent.com/85327212/197114704-f2516b35-a725-47a4-acda-af08c0a32128.gif" />
+        <img width=125 src="https://user-images.githubusercontent.com/85327212/198862142-df941bfa-e8ab-48c6-b402-c4ec19eca862.gif" />
     </a>
     <a href="https://github.com/ErickSorto/Collatz-Calculator">
-        <img width=125 src="https://user-images.githubusercontent.com/85327212/197114706-9b798f13-7bd5-410e-8a74-f8168aa6f985.gif" />
+        <img width=125 src="https://user-images.githubusercontent.com/85327212/198862141-b1b2ae72-9201-480b-a55c-118bff3a5f75.gif" />
+    </a>
+  <a href="https://github.com/ErickSorto/Collatz-Calculator">
+        <img width=125 src="https://user-images.githubusercontent.com/85327212/198862140-efd6e762-f76b-436b-9c96-ef2bf8aebc36.gif" />
     </a>
  
 </p>
