@@ -66,9 +66,7 @@ Latest:
     <a href="https://github.com/ErickSorto/Collatz-Calculator">
         <img width=125 src="https://user-images.githubusercontent.com/85327212/197114706-9b798f13-7bd5-410e-8a74-f8168aa6f985.gif" />
     </a>
-  <a href="https://github.com/ErickSorto/Collatz-Calculator">
-        <img width=125 src="https://user-images.githubusercontent.com/85327212/197114706-9b798f13-7bd5-410e-8a74-f8168aa6f985.gif" />
-    </a>
+ 
 </p>
 
 </td></tr> </table>
