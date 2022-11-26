@@ -82,6 +82,6 @@ Skills: Java, Kotlin, SQL, UI Design
 <!---
 ErickSorto/ErickSorto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.![dj_display_gif](https://user-images.githubusercontent.com/85327212/198681623-f76b4882-f073-4be1-90d0-4d9487890f8a.gif)
-streakk
+streakkk
 --->
 
