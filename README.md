@@ -78,8 +78,7 @@ Latest:
 ---
 
 ### About me:
-Hi my name is Erick, in my free time I love developing android apps. Currently, I am working through a Udacity course about app development using Kotlin. I've been studying Java for 4 years now and I wanted to find a way to combine my love for creating and programming, so I got into app development. 
-Skills: Java, Kotlin, SQL, UI Design
+Hi, I'm Erick, an Android developer with 2 years of experience. Fueled by my passion for programming, I've created various apps and worked on numerous projects using Java and Kotlin. Explore my GitHub account to discover my exciting app development journey!
 <!---
 ErickSorto/ErickSorto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.![dj_display_gif](https://user-images.githubusercontent.com/85327212/198681623-f76b4882-f073-4be1-90d0-4d9487890f8a.gif)
