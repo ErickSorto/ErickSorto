@@ -33,7 +33,6 @@
 Latest:
 - [AI Toolbox](https://github.com/ErickSorto/AI-Toolbox): AI Toolbox is a versatile AI-powered app designed to upgrade your life with features such as book summaries, fitness and diet plans, finance management, and more. Access numerous self-improvement tools in one user-friendly app to unlock your full potential.
 - [Dream Journal AI](https://github.com/ErickSorto/Dream-Journal-AI): App allows users to save, edit, and delete dreams and gives them the ability to generate an AI response that interprets their dream and also generates an image of the dream. It also stores various details for a dream. 
-- [Collatz Conjecture App](https://github.com/ErickSorto/Collatz-Calculator): Calculates number of iterations a number has using the Collatz Conjecture. Displays statistics, history, and recently used numbers. Contains different tools for filtering iterations. 
 
 
 ---
