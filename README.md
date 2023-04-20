@@ -5,19 +5,24 @@
 
 # Skills
 [![Android](https://img.shields.io/badge/Android-3DDC84?logo=Android&logoColor=white&style=for-the-badge)](https://github.com/ErickSorto)
-[![KOTLIN](https://img.shields.io/badge/KOTLIN-7F52FF?logo=KOTLIN&logoColor=white&style=for-the-badge)](https://github.com/ErickSorto)
+[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=Kotlin&logoColor=white&style=for-the-badge)](https://github.com/ErickSorto)
 [![Java](https://img.shields.io/badge/Java-007396?logo=Java&logoColor=white&style=for-the-badge)](https://github.com/ErickSorto)
 [![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-018786?logo=Jetpack&logoColor=white&style=for-the-badge)](https://github.com/ErickSorto)
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=Firebase&logoColor=white&style=for-the-badge)](https://github.com/ErickSorto)
 [![MVVM](https://img.shields.io/badge/MVVM-ed9242?&style=for-the-badge)](https://github.com/ErickSorto)
-[![GIT](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/ErickSorto)
-[![SQLITE](https://img.shields.io/badge/SQLite-003B57?logo=SQLite&logoColor=white&style=for-the-badge)](https://github.com/ErickSorto)
-[![JETPACK NAVIGATION](https://img.shields.io/badge/Jetpack%20Navigation-6b52bf?&style=for-the-badge)](https://github.com/ErickSorto)
-[![RETROFIT](https://img.shields.io/badge/retrofit-67b586?logo=square&logoColor=white&style=for-the-badge)](https://github.com/ErickSorto)
-[![GRADLE](https://img.shields.io/badge/gradle-02303A?logo=Gradle&logoColor=white&style=for-the-badge)](https://github.com/ErickSorto)
+[![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/ErickSorto)
+[![Room](https://img.shields.io/badge/Room-48CFAE?logo=SQLite&logoColor=white&style=for-the-badge)](https://github.com/ErickSorto)
+[![Jetpack Navigation](https://img.shields.io/badge/Jetpack%20Navigation-6b52bf?&style=for-the-badge)](https://github.com/ErickSorto)
+[![Retrofit](https://img.shields.io/badge/retrofit-67b586?logo=square&logoColor=white&style=for-the-badge)](https://github.com/ErickSorto)
+[![Gradle](https://img.shields.io/badge/gradle-02303A?logo=Gradle&logoColor=white&style=for-the-badge)](https://github.com/ErickSorto)
+[![Dagger/Hilt](https://img.shields.io/badge/Dagger/Hilt-2C3A42?logo=Dagger&logoColor=white&style=for-the-badge)](https://github.com/ErickSorto)
+[![Kotlin Coroutines](https://img.shields.io/badge/Kotlin_Coroutines-0095D5?logo=Kotlin&logoColor=white&style=for-the-badge)](https://github.com/ErickSorto)
+[![Kotlin Flow](https://img.shields.io/badge/Kotlin_Flow-0095D5?logo=Kotlin&logoColor=white&style=for-the-badge)](https://github.com/ErickSorto)
 
-**More:**
-XML, Room, Kotlin coroutines, Kotlin Flow, LiveData and Observers, Views Lifecycle, Glide, REST
+
+**Others:** Android Development, XML, LiveData & Observers, View Lifecycle, RESTful APIs, Unit Testing, Espresso Testing
+
+
 
 ---
 
