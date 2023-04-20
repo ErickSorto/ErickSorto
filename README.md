@@ -7,6 +7,7 @@
 [![Android](https://img.shields.io/badge/Android-3DDC84?logo=Android&logoColor=white&style=for-the-badge)](https://github.com/ErickSorto)
 [![KOTLIN](https://img.shields.io/badge/KOTLIN-7F52FF?logo=KOTLIN&logoColor=white&style=for-the-badge)](https://github.com/ErickSorto)
 [![Java](https://img.shields.io/badge/Java-007396?logo=Java&logoColor=white&style=for-the-badge)](https://github.com/ErickSorto)
+[![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-018786?logo=Jetpack&logoColor=white&style=for-the-badge)](https://github.com/ErickSorto)
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=Firebase&logoColor=white&style=for-the-badge)](https://github.com/ErickSorto)
 [![MVVM](https://img.shields.io/badge/MVVM-ed9242?&style=for-the-badge)](https://github.com/ErickSorto)
 [![GIT](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/ErickSorto)
