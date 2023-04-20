@@ -6,7 +6,8 @@
 # Skills
 [![Android](https://img.shields.io/badge/Android-3DDC84?logo=Android&logoColor=white&style=for-the-badge)](https://github.com/ErickSorto)
 [![KOTLIN](https://img.shields.io/badge/KOTLIN-7F52FF?logo=KOTLIN&logoColor=white&style=for-the-badge)](https://github.com/ErickSorto)
-[![JAVA](https://img.shields.io/badge/JAVA-a8732f?&style=for-the-badge)](https://github.com/ErickSorto)
+[![Java](https://img.shields.io/badge/Java-007396?logo=Java&logoColor=white&style=for-the-badge)](https://github.com/ErickSorto)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=Firebase&logoColor=white&style=for-the-badge)](https://github.com/ErickSorto)
 [![MVVM](https://img.shields.io/badge/MVVM-ed9242?&style=for-the-badge)](https://github.com/ErickSorto)
 [![GIT](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/ErickSorto)
 [![SQLITE](https://img.shields.io/badge/SQLite-003B57?logo=SQLite&logoColor=white&style=for-the-badge)](https://github.com/ErickSorto)
