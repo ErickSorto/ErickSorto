@@ -30,8 +30,8 @@
 <img align="right" height="210px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickSorto&layout=compact&theme=chartreuse-dark&title_color=ffffff&langs_count=3" />
 
 Latest:
-- [AI Toolbox](https://github.com/ErickSorto/AI-Toolbox): AI Toolbox is a versatile AI-powered app designed to upgrade your life with features such as book summaries, fitness and diet plans, finance management, and more. Access numerous self-improvement tools in one user-friendly app to unlock your full potential.
-- [Dream Journal AI](https://github.com/ErickSorto/Dream-Journal-AI): App allows users to save, edit, and delete dreams and gives them the ability to generate an AI response that interprets their dream and also generates an image of the dream. It also stores various details for a dream. 
+- [AI Toolbox](https://github.com/ErickSorto/AI-Toolbox): AI Toolbox is a multifunctional AI app that enhances life with book summaries, fitness and diet plans, finance tools, and more. Access a variety of self-improvement tools in one app to maximize your potential.
+- [Dream Journal AI](https://github.com/ErickSorto/Dream-Journal-AI): The app lets users record, modify, and remove dreams, offering AI-powered dream interpretation and image generation. It also maintains detailed dream records, including a dictionary feature.
 
 
 ---
