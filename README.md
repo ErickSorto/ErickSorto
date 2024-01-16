@@ -3,7 +3,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=Welcome!+My+name+is+Erick+Sorto%F0%9F%91%8B%F0%9F%8F%BB;Android+Developer"></a>
 </p>
 
-# Skills
+## Skills
 [![Android](https://img.shields.io/badge/Android-3DDC84?logo=Android&logoColor=white&style=for-the-badge)](https://github.com/ErickSorto)
 [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=Kotlin&logoColor=white&style=for-the-badge)](https://github.com/ErickSorto)
 [![Java](https://img.shields.io/badge/Java-007396?logo=Java&logoColor=white&style=for-the-badge)](https://github.com/ErickSorto)
@@ -17,9 +17,6 @@
 [![Dagger/Hilt](https://img.shields.io/badge/Dagger/Hilt-2C3A42?logo=Dagger&logoColor=white&style=for-the-badge)](https://github.com/ErickSorto)
 [![Kotlin Coroutines](https://img.shields.io/badge/Kotlin_Coroutines-0095D5?logo=Kotlin&logoColor=white&style=for-the-badge)](https://github.com/ErickSorto)
 [![Kotlin Flow](https://img.shields.io/badge/Kotlin_Flow-80CBC4?logo=Kotlin&logoColor=white&style=for-the-badge)](https://github.com/ErickSorto)
-
-
-**Others:** Android Development, XML, LiveData & Observers, View Lifecycle, RESTful APIs, Unit Testing, Espresso Testing
 
 
 
