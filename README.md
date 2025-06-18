@@ -1,7 +1,7 @@
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=Welcome!+My+name+is+Erick+Sorto%F0%9F%91%8B%F0%9F%8F%BB;Android+Developer"></a>
-</p>
+<h1 align="center">♞ Erick Sorto</h1>
+<p align="center"><i>Mobile Developer</i></p>
+
+---
 
 ## Skills
 [![Android](https://img.shields.io/badge/Android-3DDC84?logo=Android&logoColor=white&style=for-the-badge)](https://github.com/ErickSorto)
