@@ -20,18 +20,6 @@
 
 ---
 
-### Portfolio Projects:
-
-<img align="right" height="210px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickSorto&layout=compact&theme=chartreuse-dark&title_color=ffffff&langs_count=3" />
-
-Latest:
-- [AI Toolbox](https://github.com/ErickSorto/AI-Toolbox): AI Toolbox is a multifunctional AI app that enhances life with book summaries, fitness and diet plans, finance tools, and more. Access a variety of self-improvement tools in one app to maximize your potential.
-- [Dream Journal AI](https://github.com/ErickSorto/Dream-Journal-AI): The app lets users record, modify, and remove dreams, offering AI-powered dream interpretation and image generation. It also maintains detailed dream records, including a dictionary feature.
-
-
----
-
-
 <table align= "center">
 <tr>
 <th><a href="https://github.com/ErickSorto/Dream-Journal-AI">Dream Journal AI</th>
@@ -74,7 +62,14 @@ Latest:
 </p>
 
 </td></tr> </table>
+---
 
+
+<img align="right" height="210px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickSorto&layout=compact&theme=chartreuse-dark&title_color=ffffff&langs_count=3" />
+
+Latest:
+- [AI Toolbox](https://github.com/ErickSorto/AI-Toolbox): AI Toolbox is a multifunctional AI app that enhances life with book summaries, fitness and diet plans, finance tools, and more. Access a variety of self-improvement tools in one app to maximize your potential.
+- [Dream Journal AI](https://github.com/ErickSorto/Dream-Journal-AI): The app lets users record, modify, and remove dreams, offering AI-powered dream interpretation and image generation. It also maintains detailed dream records, including a dictionary feature.
 ---
 
 ### About me:
