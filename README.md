@@ -1,22 +1,20 @@
 <h1 align="center">♞ Erick Sorto</h1>
-<p align="center"><i>Mobile Developer</i></p>
+<h3 align="center"><i>Mobile Developer</i></h3>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/-Android-333333?style=for-the-badge&logo=none" alt="Android" height="30" />
+ <img src="https://img.shields.io/badge/-iOS-333333?style=for-the-badge&logo=none" alt="iOS" height="30" />
+  <img src="https://img.shields.io/badge/-Kotlin-333333?style=for-the-badge&logo=none" alt="Kotlin" height="30" />
+  <img src="https://img.shields.io/badge/-Java-333333?style=for-the-badge&logo=none" alt="Java" height="30" />
+  <img src="https://img.shields.io/badge/-Swift-333333?style=for-the-badge&logo=none" alt="Swift" height="30" />
+  <img src="https://img.shields.io/badge/-Jetpack%20Compose-333333?style=for-the-badge&logo=none" alt="Jetpack Compose" height="30" />
+  <img src="https://img.shields.io/badge/-Firebase-333333?style=for-the-badge&logo=none" alt="Firebase" height="30" />
+  <img src="https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=none" alt="Git" height="30" />
+</p>
 
-## Skills
-[![Android](https://img.shields.io/badge/Android-3DDC84?logo=Android&logoColor=white&style=for-the-badge)](https://github.com/ErickSorto)
-[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=Kotlin&logoColor=white&style=for-the-badge)](https://github.com/ErickSorto)
-[![Java](https://img.shields.io/badge/Java-007396?logo=Java&logoColor=white&style=for-the-badge)](https://github.com/ErickSorto)
-[![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-039BE5?logo=jetpackcompose&logoColor=white&style=for-the-badge)](https://github.com/ErickSorto)
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=Firebase&logoColor=white&style=for-the-badge)](https://github.com/ErickSorto)
-[![MVVM](https://img.shields.io/badge/MVVM-C198FB?&style=for-the-badge)](https://github.com/ErickSorto)
-[![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/ErickSorto)
-[![Room](https://img.shields.io/badge/Room-42A5F5?logo=SQLite&logoColor=white&style=for-the-badge)](https://github.com/ErickSorto)
-[![Retrofit](https://img.shields.io/badge/retrofit-6FACA1?logo=square&logoColor=white&style=for-the-badge)](https://github.com/ErickSorto)
-[![Gradle](https://img.shields.io/badge/gradle-02303A?logo=Gradle&logoColor=white&style=for-the-badge)](https://github.com/ErickSorto)
-[![Dagger/Hilt](https://img.shields.io/badge/Dagger/Hilt-2C3A42?logo=Dagger&logoColor=white&style=for-the-badge)](https://github.com/ErickSorto)
-[![Kotlin Coroutines](https://img.shields.io/badge/Kotlin_Coroutines-0095D5?logo=Kotlin&logoColor=white&style=for-the-badge)](https://github.com/ErickSorto)
-[![Kotlin Flow](https://img.shields.io/badge/Kotlin_Flow-80CBC4?logo=Kotlin&logoColor=white&style=for-the-badge)](https://github.com/ErickSorto)
+
+
+
 
 
 
