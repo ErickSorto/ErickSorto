@@ -14,6 +14,15 @@
 
 ---
 
+<img
+  align="center"
+  alt="Dream Journal AI Demo"
+  src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXIzZHFmNmFlZ2Y4b2d0YW9jNDBwamxobXBxeHNvMW52Mm5sdHJ3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y2A5gwi5tlNBoINVgz/giphy.gif"
+  width="180"
+/>
+
+---
+
 <table align= "center">
 <tr>
 <th><a href="https://github.com/ErickSorto/Dream-Journal-AI">Dream Journal AI</th>
