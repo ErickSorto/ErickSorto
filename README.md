@@ -79,46 +79,50 @@ You can click the Preview link to take a look at your changes.![dj_display_gif](
 
 <table align="center" width="100%" cellspacing="0" cellpadding="0">
   <tr>
-    <!-- Title row locks each column at 50% -->
+    <!-- Headers lock each outer column to 50% -->
     <th width="50%" align="center">Dream Journal AI</th>
     <th width="50%" align="center">Collatz Conjecture App</th>
   </tr>
   <tr valign="top">
-    <!-- Left column -->
-    <td width="50%">
+    <!-- Left column (auto-sized to header width) -->
+    <td>
       <table width="100%" cellspacing="0" cellpadding="0">
         <tr valign="top">
           <td width="125" align="center" valign="top">
             <a href="https://github.com/ErickSorto/Dream-Journal-AI">
-              <img src="https://github.com/user-attachments/assets/0ee55d88-fe6e-4d85-bd2d-1455b3b46691"
-                   alt="Dream Journal AI Demo"
-                   width="125" />
+              <img
+                src="https://github.com/user-attachments/assets/0ee55d88-fe6e-4d85-bd2d-1455b3b46691"
+                alt="Dream Journal AI Demo"
+                width="125"
+              />
             </a>
           </td>
-          <td width="325" align="left" valign="top">
+          <td align="left" valign="top">
             <ul>
-              <li>✔️ Quickly log and edit your dreams</li>
-              <li>✔️ Get AI-powered dream insights</li>
-              <li>✔️ Search and browse your dream archive</li>
+              <li>✔️ Quickly log, edit & delete dreams</li>
+              <li>✔️ AI-powered dream insights</li>
+              <li>✔️ Search & browse your dream archive</li>
             </ul>
           </td>
         </tr>
       </table>
     </td>
-    <!-- Right column -->
-    <td width="50%">
+    <!-- Right column (auto-sized to header width) -->
+    <td>
       <table width="100%" cellspacing="0" cellpadding="0">
         <tr valign="top">
           <td width="125" align="center" valign="top">
             <a href="https://github.com/ErickSorto/Collatz-Calculator">
-              <img src="https://user-images.githubusercontent.com/85327212/198862142-df941bfa-e8ab-48c6-b402-c4ec19eca862.gif"
-                   alt="Collatz Conjecture App Demo"
-                   width="125" />
+              <img
+                src="https://user-images.githubusercontent.com/85327212/198862142-df941bfa-e8ab-48c6-b402-c4ec19eca862.gif"
+                alt="Collatz Conjecture App Demo"
+                width="125"
+              />
             </a>
           </td>
-          <td width="325" align="left" valign="top">
+          <td align="left" valign="top">
             <ul>
-              <li>✔️ Input any positive integer</li>
+              <li>✔️ Enter any positive integer</li>
               <li>✔️ Animate the Collatz sequence</li>
               <li>✔️ Visualize convergence patterns</li>
             </ul>
@@ -128,6 +132,7 @@ You can click the Preview link to take a look at your changes.![dj_display_gif](
     </td>
   </tr>
 </table>
+
 
 
 
