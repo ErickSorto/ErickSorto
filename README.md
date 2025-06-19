@@ -77,16 +77,16 @@ You can click the Preview link to take a look at your changes.![dj_display_gif](
 --->
 
 
-<table align="center" width="100%" cellspacing="0" cellpadding="0">
+
+<table align="center" width="100" cellspacing="0" cellpadding="0">
   <tr>
-    <!-- Headers lock each outer column to 50% -->
-    <th width="50%" align="center">Dream Journal AI</th>
-    <th width="50%" align="center">Collatz Conjecture App</th>
+    <th align="center" width="45%">Dream Journal AI</th>
+    <th align="center" width="45%">Collatz Conjecture App</th>
   </tr>
   <tr valign="top">
-    <!-- Left column (auto-sized to header width) -->
-    <td>
-      <table width="100%" cellspacing="0" cellpadding="0">
+    <!-- Dream Journal AI column -->
+    <td width="45%">
+      <table cellspacing="0" cellpadding="0">
         <tr valign="top">
           <td width="125" align="center" valign="top">
             <a href="https://github.com/ErickSorto/Dream-Journal-AI">
@@ -101,15 +101,15 @@ You can click the Preview link to take a look at your changes.![dj_display_gif](
             <ul>
               <li>✔️ Quickly log, edit & delete dreams</li>
               <li>✔️ AI-powered dream insights</li>
-              <li>✔️ Search & browse your dream archive</li>
+              <li>✔️ Search your dream archive</li>
             </ul>
           </td>
         </tr>
       </table>
     </td>
-    <!-- Right column (auto-sized to header width) -->
-    <td>
-      <table width="100%" cellspacing="0" cellpadding="0">
+    <!-- Collatz Conjecture App column -->
+    <td width="45%">
+      <table cellspacing="0" cellpadding="0">
         <tr valign="top">
           <td width="125" align="center" valign="top">
             <a href="https://github.com/ErickSorto/Collatz-Calculator">
@@ -123,7 +123,7 @@ You can click the Preview link to take a look at your changes.![dj_display_gif](
           <td align="left" valign="top">
             <ul>
               <li>✔️ Enter any positive integer</li>
-              <li>✔️ Animate the Collatz sequence</li>
+              <li>✔️ Animate the sequence step-by-step</li>
               <li>✔️ Visualize convergence patterns</li>
             </ul>
           </td>
@@ -132,6 +132,9 @@ You can click the Preview link to take a look at your changes.![dj_display_gif](
     </td>
   </tr>
 </table>
+
+
+
 
 
 
