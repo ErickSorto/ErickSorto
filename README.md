@@ -79,18 +79,14 @@ You can click the Preview link to take a look at your changes.![dj_display_gif](
 
 
 <table align="center" width="100%" cellspacing="0" cellpadding="0">
-  <colgroup>
-    <col width="50%">
-    <col width="50%">
-  </colgroup>
   <tr>
-    <th align="center">Dream Journal AI</th>
-    <th align="center">Collatz Conjecture App</th>
+    <th width="50%" align="center">Dream Journal AI</th>
+    <th width="50%" align="center">Collatz Conjecture App</th>
   </tr>
   <tr valign="top">
-    <!-- Left column -->
-    <td>
-      <table width="100%" cellspacing="0" cellpadding="0">
+    <!-- Dream Journal AI column -->
+    <td width="50%">
+      <table width="100%" cellspacing="0" cellpadding="10">
         <tr valign="top">
           <td width="125" align="center" valign="top">
             <a href="https://github.com/ErickSorto/Dream-Journal-AI">
@@ -102,18 +98,16 @@ You can click the Preview link to take a look at your changes.![dj_display_gif](
             </a>
           </td>
           <td align="left" valign="top">
-            <ul>
-              <li>✔️ Quickly log, edit & delete dreams</li>
-              <li>✔️ AI-powered dream insights</li>
-              <li>✔️ Search & browse your dream archive</li>
-            </ul>
+            ✔️ Quickly log, edit & delete dreams<br/>
+            ✔️ AI-powered dream insights<br/>
+            ✔️ Search your dream archive
           </td>
         </tr>
       </table>
     </td>
-    <!-- Right column -->
-    <td>
-      <table width="100%" cellspacing="0" cellpadding="0">
+    <!-- Collatz Conjecture App column -->
+    <td width="50%">
+      <table width="100%" cellspacing="0" cellpadding="10">
         <tr valign="top">
           <td width="125" align="center" valign="top">
             <a href="https://github.com/ErickSorto/Collatz-Calculator">
@@ -125,11 +119,9 @@ You can click the Preview link to take a look at your changes.![dj_display_gif](
             </a>
           </td>
           <td align="left" valign="top">
-            <ul>
-              <li>✔️ Input any positive integer</li>
-              <li>✔️ Animate the Collatz sequence</li>
-              <li>✔️ Visualize convergence patterns</li>
-            </ul>
+            ✔️ Input any positive integer<br/>
+            ✔️ Animate the sequence step-by-step<br/>
+            ✔️ Visualize convergence patterns
           </td>
         </tr>
       </table>
