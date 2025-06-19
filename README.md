@@ -14,12 +14,6 @@
 
 ---
 
-<img
-  align="center"
-  alt="Dream Journal AI Demo"
-  src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXIzZHFmNmFlZ2Y4b2d0YW9jNDBwamxobXBxeHNvMW52Mm5sdHJ3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y2A5gwi5tlNBoINVgz/giphy.gif"
-  width="180"
-/>
 
 ---
 
@@ -81,4 +75,67 @@ Hi, I'm Erick, an Android developer with 2 years of experience. Fueled by my pas
 ErickSorto/ErickSorto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.![dj_display_gif](https://user-images.githubusercontent.com/85327212/198681623-f76b4882-f073-4be1-90d0-4d9487890f8a.gif
 --->
+
+
+<table align="center" width="100%" cellspacing="0" cellpadding="0">
+  <tr>
+    <th align="center" width="50%">Dream Journal AI</th>
+    <th align="center" width="50%">Collatz Conjecture App</th>
+  </tr>
+  <tr valign="top">
+    <!-- Dream Journal AI column -->
+    <td width="50%">
+      <table width="100%" cellspacing="0" cellpadding="0">
+        <tr valign="top">
+          <!-- GIF cell, 125px wide -->
+          <td width="125" align="center" valign="top">
+            <a href="https://github.com/ErickSorto/Dream-Journal-AI">
+              <img
+                src="https://github.com/user-attachments/assets/0ee55d88-fe6e-4d85-bd2d-1455b3b46691"
+                alt="Dream Journal AI Demo"
+                width="125"
+              />
+            </a>
+          </td>
+          <!-- Text cell, fixed 325px -->
+          <td width="325" align="left" valign="top">
+            <ul>
+              <li>✔️ Log, edit, and delete dreams with ease</li>
+              <li>✔️ AI-driven interpretation for deeper insights</li>
+              <li>✔️ Search and archive your dream history</li>
+            </ul>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <!-- Collatz Conjecture App column -->
+    <td width="50%">
+      <table width="100%" cellspacing="0" cellpadding="0">
+        <tr valign="top">
+          <!-- GIF cell, 125px wide -->
+          <td width="125" align="center" valign="top">
+            <a href="https://github.com/ErickSorto/Collatz-Calculator">
+              <img
+                src="https://user-images.githubusercontent.com/85327212/198862142-df941bfa-e8ab-48c6-b402-c4ec19eca862.gif"
+                alt="Collatz Conjecture App Demo"
+                width="125"
+              />
+            </a>
+          </td>
+          <!-- Text cell, fixed 325px -->
+          <td width="325" align="left" valign="top">
+            <ul>
+              <li>✔️ Input any positive integer</li>
+              <li>✔️ Animate the full Collatz sequence</li>
+              <li>✔️ Visualize convergence patterns</li>
+            </ul>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+
+
 
