@@ -12,12 +12,6 @@
   <img src="https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=none" alt="Git" height="30" />
 </p>
 
-
-
-
-
-
-
 ---
 
 <table align= "center">
@@ -62,8 +56,8 @@
 </p>
 
 </td></tr> </table>
----
 
+---
 
 <img align="right" height="210px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickSorto&layout=compact&theme=chartreuse-dark&title_color=ffffff&langs_count=3" />
 
