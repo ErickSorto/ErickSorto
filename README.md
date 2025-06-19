@@ -88,6 +88,7 @@ You can click the Preview link to take a look at your changes.![dj_display_gif](
     <td width="50%">
       <table width="100%" cellspacing="0" cellpadding="10">
         <tr valign="top">
+          <!-- fixed 125px GIF cell -->
           <td width="125" align="center" valign="top">
             <a href="https://github.com/ErickSorto/Dream-Journal-AI">
               <img
@@ -97,7 +98,8 @@ You can click the Preview link to take a look at your changes.![dj_display_gif](
               />
             </a>
           </td>
-          <td align="left" valign="top">
+          <!-- Text cell with fixed 300px width -->
+          <td width="300" align="left" valign="top">
             ✔️ Quickly log, edit & delete dreams<br/>
             ✔️ AI-powered dream insights<br/>
             ✔️ Search your dream archive
@@ -109,6 +111,7 @@ You can click the Preview link to take a look at your changes.![dj_display_gif](
     <td width="50%">
       <table width="100%" cellspacing="0" cellpadding="10">
         <tr valign="top">
+          <!-- fixed 125px GIF cell -->
           <td width="125" align="center" valign="top">
             <a href="https://github.com/ErickSorto/Collatz-Calculator">
               <img
@@ -118,7 +121,8 @@ You can click the Preview link to take a look at your changes.![dj_display_gif](
               />
             </a>
           </td>
-          <td align="left" valign="top">
+          <!-- Text cell with fixed 300px width -->
+          <td width="300" align="left" valign="top">
             ✔️ Input any positive integer<br/>
             ✔️ Animate the sequence step-by-step<br/>
             ✔️ Visualize convergence patterns
