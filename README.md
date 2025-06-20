@@ -97,7 +97,7 @@ You can click the Preview link to take a look at your changes.![dj_display_gif](
               />
             </a>
           </td>
-          <td width="255" align="left" valign="top">
+          <td width="235" align="left" valign="top">
             ✔️ Quickly log dreams<br/>
             ✔️ AI-powered insights<br/>
             ✔️ Search your archive<br/>
@@ -121,7 +121,7 @@ You can click the Preview link to take a look at your changes.![dj_display_gif](
               />
             </a>
           </td>
-          <td width="255" align="left" valign="top">
+          <td width="235" align="left" valign="top">
             ✔️ Input any integer<br/>
             ✔️ Animate each step<br/>
             ✔️ Visualize convergence
