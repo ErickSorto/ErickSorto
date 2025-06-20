@@ -88,7 +88,6 @@ You can click the Preview link to take a look at your changes.![dj_display_gif](
     <td width="50%">
       <table width="100%" cellspacing="0" cellpadding="10">
         <tr valign="top">
-          <!-- fixed 125px GIF cell -->
           <td width="125" align="center" valign="top">
             <a href="https://github.com/ErickSorto/Dream-Journal-AI">
               <img
@@ -98,11 +97,13 @@ You can click the Preview link to take a look at your changes.![dj_display_gif](
               />
             </a>
           </td>
-          <!-- Text cell with fixed 300px width -->
-          <td width="295" align="left" valign="top">
-            ✔️ Quickly log, edit & delete dreams<br/>
-            ✔️ AI-powered dream insights<br/>
-            ✔️ Search your dream archive
+          <td width="285" align="left" valign="top">
+            ✔️ Quickly log dreams<br/>
+            ✔️ AI-powered insights<br/>
+            ✔️ Search your archive<br/>
+            📅 Created: Oct 6, 2022<br/>
+            🔀 Commits: 278<br/>
+            🔗 <a href="https://play.google.com/store/apps/details?id=org.ballistic.dreamjournalai&hl=en_US">Playstore</a>
           </td>
         </tr>
       </table>
@@ -111,7 +112,6 @@ You can click the Preview link to take a look at your changes.![dj_display_gif](
     <td width="50%">
       <table width="100%" cellspacing="0" cellpadding="10">
         <tr valign="top">
-          <!-- fixed 125px GIF cell -->
           <td width="125" align="center" valign="top">
             <a href="https://github.com/ErickSorto/Collatz-Calculator">
               <img
@@ -121,11 +121,10 @@ You can click the Preview link to take a look at your changes.![dj_display_gif](
               />
             </a>
           </td>
-          <!-- Text cell with fixed 300px width -->
-          <td width="295" align="left" valign="top">
-            ✔️ Input any positive integer<br/>
-            ✔️ Animate the sequence step-by-step<br/>
-            ✔️ Visualize convergence patterns
+          <td width="285" align="left" valign="top">
+            ✔️ Input any integer<br/>
+            ✔️ Animate each step<br/>
+            ✔️ Visualize convergence
           </td>
         </tr>
       </table>
