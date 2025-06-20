@@ -94,12 +94,12 @@ You can click the Preview link to take a look at your changes.![dj_display_gif](
               <img
                 src="https://github.com/user-attachments/assets/0ee55d88-fe6e-4d85-bd2d-1455b3b46691"
                 alt="Dream Journal AI Demo"
-                width="125"
+                width="120"
               />
             </a>
           </td>
           <!-- Text cell with fixed 300px width -->
-          <td width="300" align="left" valign="top">
+          <td width="295" align="left" valign="top">
             ✔️ Quickly log, edit & delete dreams<br/>
             ✔️ AI-powered dream insights<br/>
             ✔️ Search your dream archive
@@ -117,12 +117,12 @@ You can click the Preview link to take a look at your changes.![dj_display_gif](
               <img
                 src="https://user-images.githubusercontent.com/85327212/198862142-df941bfa-e8ab-48c6-b402-c4ec19eca862.gif"
                 alt="Collatz Conjecture App Demo"
-                width="125"
+                width="120"
               />
             </a>
           </td>
           <!-- Text cell with fixed 300px width -->
-          <td width="300" align="left" valign="top">
+          <td width="295" align="left" valign="top">
             ✔️ Input any positive integer<br/>
             ✔️ Animate the sequence step-by-step<br/>
             ✔️ Visualize convergence patterns
