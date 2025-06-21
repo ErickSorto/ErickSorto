@@ -57,13 +57,17 @@
           <td nowrap align="left" valign="top">
             ✔️ Input any integer<br/>
             ✔️ Animate each step<br/>
-            ✔️ Visualize convergence
+            ✔️ Visualize convergence<br/>
+            📅 Created: Sep 5, 2021<br/>
+            🔀 Commits: 21<br/>
+            🔗 <a href="https://play.google.com/store/apps/details?id=com.BallisticApps.CollatzCalculator&utm_source=na_Med">Playstore</a>
           </td>
         </tr>
       </table>
     </td>
   </tr>
 </table>
+
 
 
 
