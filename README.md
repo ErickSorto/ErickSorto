@@ -24,8 +24,11 @@
         <tr valign="top">
           <td align="center" valign="top">
             <a href="https://github.com/ErickSorto/Dream-Journal-AI">
-              <img src="https://github.com/user-attachments/assets/0ee55d88-fe6e-4d85-bd2d-1455b3b46691"
-                   alt="Dream Journal AI Demo" width="120"/>
+              <img
+                src="https://github.com/user-attachments/assets/0ee55d88-fe6e-4d85-bd2d-1455b3b46691"
+                alt="Dream Journal AI Demo"
+                width="120"
+              />
             </a>
           </td>
           <td nowrap align="left" valign="top">
@@ -44,8 +47,11 @@
         <tr valign="top">
           <td align="center" valign="top">
             <a href="https://github.com/ErickSorto/Collatz-Calculator">
-              <img src="https://user-images.githubusercontent.com/85327212/198862142-df941bfa-e8ab-48c6-b402-c4ec19eca862.gif"
-                   alt="Collatz Conjecture App Demo" width="120"/>
+              <img
+                src="https://user-images.githubusercontent.com/85327212/198862142-df941bfa-e8ab-48c6-b402-c4ec19eca862.gif"
+                alt="Collatz Conjecture App Demo"
+                width="120"
+              />
             </a>
           </td>
           <td nowrap align="left" valign="top">
@@ -58,6 +64,7 @@
     </td>
   </tr>
 </table>
+
 
 
 
