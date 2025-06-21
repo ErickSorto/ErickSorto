@@ -13,7 +13,7 @@
 </p>
 
 ---
-<table align="center" width="100%" cellspacing="0" cellpadding="0">
+<table align="center" cellspacing="0" cellpadding="0">
   <tr>
     <th width="235" align="center">Dream Journal AI</th>
     <th width="235" align="center">Collatz Conjecture App</th>
