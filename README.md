@@ -13,17 +13,17 @@
 </p>
 
 ---
-<table align="center" width="100%" cellspacing="0" cellpadding="0">
+<table align="center" cellspacing="0" cellpadding="0">
   <tr>
-    <th width="50%" align="center">Dream Journal AI</th>
-    <th width="50%" align="center">Collatz Conjecture App</th>
+    <th align="center">Dream Journal AI</th>
+    <th align="center">Collatz Conjecture App</th>
   </tr>
   <tr valign="top">
     <!-- Dream Journal AI column -->
-    <td width="50%">
-      <table width="100%" cellspacing="0" cellpadding="10">
+    <td>
+      <table cellspacing="0" cellpadding="10">
         <tr valign="top">
-          <td width="125" align="center" valign="top">
+          <td align="center" valign="top">
             <a href="https://github.com/ErickSorto/Dream-Journal-AI">
               <img
                 src="https://github.com/user-attachments/assets/0ee55d88-fe6e-4d85-bd2d-1455b3b46691"
@@ -32,7 +32,7 @@
               />
             </a>
           </td>
-          <td width="235" align="left" valign="top">
+          <td align="left" valign="top">
             ✔️ Quickly log dreams<br/>
             ✔️ AI-powered insights<br/>
             ✔️ Search your archive<br/>
@@ -44,10 +44,10 @@
       </table>
     </td>
     <!-- Collatz Conjecture App column -->
-    <td width="50%">
-      <table width="100%" cellspacing="0" cellpadding="10">
+    <td>
+      <table cellspacing="0" cellpadding="10">
         <tr valign="top">
-          <td width="125" align="center" valign="top">
+          <td align="center" valign="top">
             <a href="https://github.com/ErickSorto/Collatz-Calculator">
               <img
                 src="https://user-images.githubusercontent.com/85327212/198862142-df941bfa-e8ab-48c6-b402-c4ec19eca862.gif"
@@ -56,7 +56,7 @@
               />
             </a>
           </td>
-          <td width="235" align="left" valign="top">
+          <td align="left" valign="top">
             ✔️ Input any integer<br/>
             ✔️ Animate each step<br/>
             ✔️ Visualize convergence
@@ -66,6 +66,7 @@
     </td>
   </tr>
 </table>
+
 
 ---
 
