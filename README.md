@@ -15,8 +15,8 @@
 ---
 <table align="center" width="100%" cellspacing="0" cellpadding="0">
   <tr>
-    <th width="50%" align="center">Dream Journal AI</th>
-    <th width="50%" align="center">Collatz Conjecture App</th>
+    <th width="235" align="center">Dream Journal AI</th>
+    <th width="235" align="center">Collatz Conjecture App</th>
   </tr>
   <tr valign="top">
     <!-- Dream Journal AI column -->
