@@ -20,7 +20,7 @@
   </tr>
   <tr valign="top">
     <!-- Dream Journal AI column -->
-    <td width="50%">
+    <td width="235%">
       <table width="100%" cellspacing="0" cellpadding="10">
         <tr valign="top">
           <td width="125" align="center" valign="top">
@@ -44,7 +44,7 @@
       </table>
     </td>
     <!-- Collatz Conjecture App column -->
-    <td width="50%">
+    <td width="235">
       <table width="100%" cellspacing="0" cellpadding="10">
         <tr valign="top">
           <td width="125" align="center" valign="top">
